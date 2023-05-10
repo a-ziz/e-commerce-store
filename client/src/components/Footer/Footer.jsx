@@ -42,7 +42,7 @@ const Footer = () => {
       </div>
       <div className="bottom">
         <div className="left">
-          <span className="logo">Clothn</span>
+          <span className="logo">Flex</span>
           <span className="copyright">
             &copy; Copyright 2023. All Rights Reserved
           </span>
