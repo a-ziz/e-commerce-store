@@ -14,7 +14,7 @@ import { useSelector } from "react-redux";
 
 const Navbar = () => {
   const [open, setOpen] = useState(false);
-  const [menu, setMenu] = useState(true);
+  const [menu, setMenu] = useState(false);
   const products = useSelector((state) => state.cart.products);
 
   const toggleMenu = () => {

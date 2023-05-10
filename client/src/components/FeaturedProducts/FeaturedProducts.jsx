@@ -13,10 +13,11 @@ const FeaturedProducts = ({ type }) => {
       <div className="top">
         <h1>{type} products</h1>
         <p>
-          Lorem ipsum dolor, sit amet consectetur adipisicing elit. Voluptatum
-          blanditiis sapiente incidunt veniam eum neque iste saepe impedit
-          adipisci libero sint pariatur sequi, ea necessitatibus, fugit
-          recusandae quod vero amet!
+          Men's Classic Oxford Shirt - The classic Oxford shirt is a timeless
+          piece that every man needs in his wardrobe. Our version is made with
+          premium cotton that is both soft and breathable, making it perfect for
+          any occasion. It comes in a variety of colors, so you can choose the
+          one that suits your style.
         </p>
       </div>
       <div className="bottom">

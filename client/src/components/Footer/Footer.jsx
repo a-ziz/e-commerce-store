@@ -24,19 +24,23 @@ const Footer = () => {
         <div className="item">
           <h1>About</h1>
           <span>
-            Lorem ipsum dolor sit amet consectetur adipisicing elit. Autem quos
-            delectus laborum culpa saepe tempore iusto, ex suscipit quae vitae
-            animi voluptatibus illum reiciendis? Delectus saepe voluptas
-            recusandae sunt earum.
+            Welcome to our online clothing shop, where we are passionate about
+            fashion and style. We believe that what you wear has the power to
+            reflect your personality, boost your confidence, and make you feel
+            your best. That's why we have created a platform that allows you to
+            easily shop for high-quality, fashionable clothing that suits your
+            unique style.
           </span>
         </div>
         <div className="item">
           <h1>Contact</h1>
           <span>
-            Lorem ipsum dolor, sit amet consectetur adipisicing elit. Ullam
-            harum vel unde odit cum perferendis? Maxime qui ut, necessitatibus
-            culpa itaque sapiente temporibus eaque officiis tenetur nam ad,
-            autem nisi?
+            At our online clothing shop, we offer a carefully curated selection
+            of clothing for men and women. Our collection includes everything
+            from casual wear to formal attire, with a focus on timeless styles
+            that never go out of fashion. We believe in offering clothing that
+            is not only stylish, but also comfortable and practical, so you can
+            wear it with ease and confidence.
           </span>
         </div>
       </div>
